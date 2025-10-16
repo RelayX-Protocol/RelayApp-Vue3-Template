@@ -11,6 +11,7 @@ A RelayApp frontend template built with Vue 3 + TypeScript + Vite, using relayx-
 
 ## Tech Stack
 
+- Node.js: 20.0 or higher
 - Vue 3 + TypeScript + Vite
 - Ant Design Vue 4.x
 - [relayx-api](https://www.npmjs.com/package/relayx-api)
